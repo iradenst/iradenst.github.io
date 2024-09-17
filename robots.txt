@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://iradenst.github.io/sitemap.html.gz
+Sitemap: https://iradenst.github.io/app/sitemap.html.gz
+Sitemap: https://iradenst.github.io/assets/sitemap.html.gz
+Sitemap: https://iradenst.github.io/css/sitemap.html.gz
+Sitemap: https://iradenst.github.io/includes/sitemap.html.gz
+Sitemap: https://iradenst.github.io/item/sitemap.html.gz
+Sitemap: https://iradenst.github.io/src/sitemap.html.gz
